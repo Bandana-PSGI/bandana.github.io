@@ -8,7 +8,7 @@ bandana - run PSGI application
 
         `perl bandana.pl [options] application-name`
 
-    C<bandana.pl> runs PSGI application
+    bandana.pl runs PSGI application
 
     Options:
         --host|h    - Host to listen on. Default is `localhost`
